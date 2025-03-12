@@ -7,5 +7,5 @@
 ![resim](image/project.png)
 ![resim](image/last.png)
 ![resim](image/team.png)
-![resim](images/respon.png)
+![resim](image/respon.png)
 
